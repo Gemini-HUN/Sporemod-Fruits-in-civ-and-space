@@ -1,0 +1,506 @@
+vector2 CastingManager_DistanceThresholds (100, 150)
+int32 CastingManager_MaxAnimalPoolSize 100
+int32 CastingManager_MaxHerdsActivatedPerInterval 2
+float CastingManager_UpdateTime 1
+float PlanetHorizonCullFactor 10
+int32 _foodForNewTribesAppear 100
+float babyGrowthBoost 30
+float carryBundleAmountMax 10
+float chieftainRespawnTime 90
+int32 clickFruitOrTrees 1
+float creatureSimulationLOD_MinDistanceLow 100
+float creatureSimulationLOD_MinDistanceMed 75
+bool creatureTreesEnabled false
+bool effectSpawnedRocksEnabled true
+float foodTrayScale 1.7
+bool fruitAutoDroppingEnabled true
+bool fruitEnabled true
+float fruitPropMaxHangingTime 120
+float fruitPropMaxOnGroundTime 120
+float fruitPropMaxRegrowthTime 25
+float fruitPropMaxRottingTime 180
+float fruitPropMinHangingTime 30
+bool fruitRegrowthEnabled true
+float healthToolRegenRate 1
+keys modelPreloads
+	hutstyles!he_canvas_1
+	hutstyles!he_canvas_2
+	hutstyles!he_canvas_3
+	TribalTools!tt_chieftain_staff
+	TribalTools!tt_firepit_home_01
+	TribalTools!tt_firepit_home_02
+	TribalTools!tt_firepit_home_03
+	toolgather1!tt_food_mat
+	hutstyles!he_destroyed_hut
+	TribalTools!tt_pile_destroyed
+	TribalTools!tt_Shed_Destroyed
+	TribalTools!trg_totem_pole1
+	TribalTools!tt_totempole_combat
+	TribalTools!tt_totempole_social
+	TribalTools!trg_totem_pole2
+	TribalTools!trg_totem_pole3
+	TribalTools!trg_totem_foodmat1
+	TribalTools!trg_totem_foodmat2
+	TribalTools!trg_totem_foodmat3
+	TribalTools!Tt_Pigpen
+	TribalTools!tt_eggpen_none
+	TribalTools!tt_eggpen_some
+	TribalTools!tt_eggpen_full
+	TribalTools!tt_chieftain_staff
+	TribalTools!tt_chieftain_staff_fish
+	TribalTools!tt_chieftain_staff_seaweed
+	toolattack1!tt_hunt_field_01
+	toolattack2!tt_hunt_field_02
+	toolattack3!tt_hunt_field_03
+	toolfish1!tt_fish_field_01
+	toolfish1!tt_fish_field_01_fish
+	toolfish1!tt_fish_field_01_seaweed
+	toolheal1!tt_heal_field_staff
+	ToolRecruit1!tt_recruit_field_01
+	TribalTools!tt_Didgeridoo_field
+	TribalTools!tt_horn_field
+	TribalTools!tt_Maraca_field
+	toolgather2!0x836836B1
+	TribalTools!tt_bucket
+	toolrepair!tt_mallet
+	placeholder!genericmeat_01
+	placeholder!genericfruit_01
+	food!foodpile_fish_01
+	food!foodpile_seaweed_01
+	food!platter_egg_01
+	food!platter_egg_02
+	food!platter_egg_03
+	food!platter_empty
+	food!platter_fish_01
+	food!platter_fish_02
+	food!platter_fish_03
+	food!platter_fruit_01
+	food!platter_fruit_02
+	food!platter_fruit_03
+	food!platter_meat_01
+	food!platter_meat_02
+	food!platter_meat_03
+	food!platter_seaweed_01
+	food!platter_seaweed_02
+	food!platter_seaweed_03
+	food!0x57DC9CD4
+	food!foodpile_egg_01
+	food!foodpile_egg_02
+	food!foodpile_egg_03
+	food!foodpile_egg_04
+	food!foodpile_egg_05
+	food!foodpile_fish_01
+	food!foodpile_fish_02
+	food!foodpile_fish_03
+	food!foodpile_fish_04
+	food!foodpile_fish_05
+	food!foodpile_fish_06
+	food!foodpile_fruit_01
+	food!foodpile_fruit_02
+	food!foodpile_fruit_03
+	food!foodpile_fruit_04
+	food!foodpile_fruit_05
+	food!foodpile_fruit_06
+	food!foodpile_meat_01
+	food!foodpile_meat_02
+	food!foodpile_meat_03
+	food!foodpile_meat_04
+	food!foodpile_meat_05
+	food!foodpile_seaweed_01
+	food!foodpile_seaweed_02
+	food!foodpile_seaweed_03
+	food!foodpile_seaweed_04
+	food!foodpile_seaweed_05
+	creature_NPC_nest
+	cr_egg_01_base
+	cr_egg_01_breaking_open
+	cr_egg_01_hatched
+end
+int32 newTribeFood 15
+float obstacleCanopyAlphaMultiplier 0.01
+float obstacleHeightPercentToCanopyAlpha 0.4
+float obstacleMaxDistToCanopyAlpha 80
+float obstacleOcclusionAlphaConvergenceSpeed 0.1
+float obstacleOcclusionMinAlpha 0.5
+float obstacleOcclusionObjectRadiusMultiplier 2
+vector3 obstacleOcclusionRadiusBlendFactor (1, 1, 1)
+keys preloadTextures
+	0xAC753AD7
+	0x9EED3944
+	0x9EED3945
+	decal_cr_nest_NPC
+	decal_canvas_01
+end
+float timeBeforeBabyGrowsUp 60
+float tribeCreatureScaleMultiplier 1.2
+int32 tribeFlavorIdleMax 15000
+int32 tribeFlavorIdleMin 5000
+float tribeGotoWaitTime 10
+float tribeHutHiDamage 0.33
+float tribeHutLevel1Health 400
+float tribeHutLevel2Health 750
+float tribeHutLevel3Health 1000
+float tribeHutLoDamage 0.66
+int32s tribeMatingTimers
+	0
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+end
+float tribeMaxFood 9999
+int32 tribePopulationStart 3
+uint32 tribeRepairDelay 20
+float tribeSpeed1 1
+float tribeSpeed2 2
+float tribeSpeed3 4
+float tribeSpeed4 8
+uint32s tribeStartingTools
+	3
+	4
+end
+float tribeTimeToNewTribe 60
+float tribeToolHiDamage 0.33
+float tribeToolLoDamage 0.66
+uint32s 0x000DB6B9
+	15
+	0
+	4
+	0xfffffffd
+	7
+	0xfffffffd
+	12
+	0xfffffff9
+	14
+	0xfffffff9
+end
+float 0x0091D15B 0.5
+float 0x009C37DC 25
+float 0x01D3A528 35
+float 0x03710E22 1.25
+float 0x069943CD 0.5
+float 0x07469921 20
+float 0x080E984F 1
+uint32 0x093C8EE8 3
+float 0x09616ECC 5
+float 0x0AF5E325 12
+float 0x0C899522 0.5
+floats 0x0D4120FD
+	1
+	2
+	3
+	4
+	5
+end
+float 0x0F46A59F 5
+float 0x113E68F1 60
+bool 0x119B3DE6 true
+uint32s 0x1631B0C3
+	1
+	0
+	3
+	0xfffffffd
+	7
+	0xfffffffd
+	11
+	0xfffffff9
+	14
+	0xfffffff9
+end
+float 0x1660EA24 0.1
+uint32s 0x16D19C8A
+	1
+	3
+end
+float 0x17258636 5
+float 0x1C079D85 0.282
+bool 0x1CCFDBE6 true
+float 0x1CD417CF 50
+vector2 0x1E6BCC1D (1, 5)
+float 0x200AD1CD 50
+float 0x22748972 0.55
+floats 0x250BD2BD
+	1
+	2
+	3
+	4
+	5
+end
+float 0x26F685C1 0
+float 0x284E0A58 1
+vector2 0x2A7AA2EA (1, 5)
+float 0x2BE4751E 0
+float 0x2F634AED 3.3
+float 0x2FFD8DF3 70
+float 0x3013DE0D 5
+float 0x328D74EE 10
+float 0x341AD29F 10
+float 0x35354924 300
+float 0x3586FBA8 0
+float 0x362CC818 135
+vector2 0x37158A96 (3, 9)
+uint32 0x3B5B7E2F 1800
+float 0x3C8E6FB2 0.214
+float 0x3D346A77 90
+float 0x3E6DB41F 150
+uint32s 0x3E975C0E
+	1
+	5
+end
+float 0x412FFA82 1
+uint32s 0x4252B6FF
+	1
+	0
+	3
+	0xfffffffd
+	7
+	0xfffffff9
+	11
+	0xfffffffd
+	14
+	0xfffffff9
+end
+uint32s 0x4583FE5C
+	5
+	1
+end
+float 0x459CE162 175
+float 0x46FC8FEF 30
+float 0x486716B0 35
+floats 0x48888FAD
+	1
+	2
+	3
+	4
+	5
+end
+float 0x51697A01 0.5
+float 0x520D1066 100
+int32 0x570B5BAB 7
+float 0x5753EF17 10
+float 0x58F922E2 5
+float 0x5AAC320E 1
+float 0x5F956F3C 0.564
+float 0x633E78A1 0.75
+float 0x63B5BDA0 3
+float 0x64CF738F 20
+float 0x6546978E 15
+float 0x6933849B 5
+float 0x6DA643BD 1
+float 0x71FCB927 8
+int32s 0x734CF2C6
+	3
+	5
+	0
+end
+float 0x764C5217 25
+uint32s 0x786B78CB
+	4
+	3
+end
+float 0x78DCAD72 0.0714
+uint32 0x78F4963A 1
+bool 0x7A3DA342 false
+float 0x7BB98ADF 0.7
+float 0x7C399E92 180
+float 0x7E9DD146 10
+float 0x8067D26F 0.6
+uint32 0x816289E0 4
+uint32s 0x848B06D8
+	2
+	6
+end
+float 0x88EAE712 30
+float 0x88FB0354 15
+uint32s 0x895B917A
+	0
+	5
+	5
+	6
+	7
+	0
+end
+uint32s 0x8B4BF474
+	15
+	0
+	4
+	0xfffffffd
+	7
+	0xfffffff9
+	12
+	0xfffffffd
+	14
+	0xfffffff9
+end
+float 0x8C8F9F71 70
+uint32s 0x8DA58D04
+	2
+	0
+	3
+	0xfffffffd
+	8
+	0xfffffffd
+	12
+	0xfffffff9
+	14
+	0xfffffff9
+end
+float 0x90AA60E7 0
+float 0x90CFAC05 0.6
+float 0x947C110B 6.5
+vector2 0x964B7120 (0.1, 0.2)
+bool 0x965F10F9 false
+uint32s 0x97A0E4C2
+	2
+	0
+	3
+	0xfffffffd
+	8
+	0xfffffff9
+	12
+	0xfffffffd
+	14
+	0xfffffff9
+end
+float 0x98FBEF73 2
+float 0x997969F5 5
+bool 0x9C7E1A44 true
+float 0xA1B01538 5
+float 0xA32A6182 16
+float 0xA4775A7A 180
+uint32 0xA725FCC2 3
+float 0xA7384FF0 1000
+float 0xA7384FF1 750
+float 0xA7384FF2 400
+float 0xA818AA65 5
+float 0xA9A67944 150
+float 0xAD06CA38 150
+float 0xADA756B2 22.3999996
+vector2 0xAEE4EAA6 (1.25, 1.6)
+uint32s 0xB382EEFD
+	1
+	5
+end
+float 0xB4649F94 25
+bool 0xB4853F28 true
+float 0xB6CE0861 30
+int32 0xB79E0065 20
+vector2 0xB8CE3ADE (1.5, 1.5)
+float 0xB8FF9702 5
+float 0xBCA45F07 1
+float 0xBE6712DE 0.1
+floats 0xBEBD9B84
+	1
+	2
+	3
+	4
+	5
+end
+float 0xC40F2899 0.25
+uint32s 0xC7568CE9
+	6
+	2
+end
+uint32 0xC9CE093A 5
+uint32s 0xC9F3A4C7
+	60
+end
+float 0xD0B3F18A 7.5
+float 0xD1873793 0.5
+float 0xD1E9EAF0 150
+float 0xD2078A9B 25
+float 0xD8066440 10
+float 0xD9471E5F 15
+float 0xDAE22B88 40
+float 0xDBE20FA1 5
+float 0xDE67264F 0.7
+float 0xDEF7DD75 15
+float 0xE05FECDD 15
+float 0xE0845A59 1
+vector2 0xE0F7D46C (1.5, 2)
+float 0xE31F2F89 6
+float 0xE32237C9 1.5
+float 0xE4DD8A7C 1.5
+bool 0xE5457E7B false
+float 0xE67DD8C2 5
+float 0xE7523441 25
+float 0xE87E0B26 50
+float 0xE8C2BCAE 10
+float 0xE8DB4BD2 10
+uint32s 0xF09EDB26
+	3
+	4
+end
+uint32s 0xF18A299D
+	15
+	0
+	4
+	0xfffffff9
+	7
+	0xfffffffd
+	12
+	0xfffffffd
+	14
+	0xfffffff9
+end
+float 0xF2BC93C6 8
+float 0xF3CEF643 1
+float 0xF3FAAC05 5
+float 0xF4425721 8
+uint32 0xF46FDCAD 5000
+uint32s 0xF5BF4D8E
+	60
+	10
+	10
+	10
+	10
+	0
+end
+float 0xF6C080B8 0.35
+float 0xF73C0D79 8
+uint32s 0xF7426B5E
+	1
+	0
+	3
+	0xfffffff9
+	7
+	0xfffffffd
+	11
+	0xfffffffd
+	14
+	0xfffffff9
+end
+float 0xFA555876 200
+uint32s 0xFB43C9A7
+	2
+	0
+	3
+	0xfffffff9
+	8
+	0xfffffffd
+	12
+	0xfffffffd
+	14
+	0xfffffff9
+end
+float 0xFB847251 10
+float 0xFC122B80 1.5
+uint32 0xFCCC22AE 5
+float 0xFCEEB952 2.5
+uint32 0xFD23371D 3
+float 0xFD444753 10
+float 0xFD4FD8DC 0.3
+uint32s 0xFD5B6DD5
+	2
+	6
+end
+float 0xFF73FECB 0

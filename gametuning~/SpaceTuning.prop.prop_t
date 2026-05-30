@@ -1,0 +1,21 @@
+float CastingManager_AnimalStageMaxSlope 30
+float CastingManager_AnimalsAtMaxDensity 15
+float CastingManager_CityRadiusBuffer 60
+vector2 CastingManager_DistanceThresholds (150, 200)
+int32 CastingManager_MaxAnimalPoolSize 60
+int32 CastingManager_MaxHerdsActivatedPerInterval 2
+float CastingManager_UpdateTime 2
+float PlanetHorizonCullFactor 40
+float creatureSimulationLOD_MinDistanceLow 150
+float creatureSimulationLOD_MinDistanceMed 75
+bool creatureTreesEnabled false
+bool effectSpawnedRocksEnabled true
+bool fruitAutoDroppingEnabled true
+bool fruitEnabled true
+float fruitPropMaxHangingTime 200
+float fruitPropMaxOnGroundTime 50
+float fruitPropMaxRegrowthTime 500
+float fruitPropMaxRottingTime 20
+float fruitPropMinHangingTime 10
+bool fruitRegrowthEnabled true
+float 0x80ACC889 1.5
