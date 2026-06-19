@@ -3,12 +3,12 @@
 
 <img width="1920" height="1080" alt="SporeApp 2025-11-18 21-04-34_546" src="https://github.com/user-attachments/assets/20f9ccb4-dfdb-487f-b788-1a32ba12a9af" />
 
-[Original_mod](https://davoonline.com/phpBB3/viewtopic.php?t=10810)
+## Original mod:
+[cherrytree370](https://davoonline.com/phpBB3/viewtopic.php?t=10810)
 
-My mod idea, original mod modification:
+## My mod idea, original mod modification:
  [NukelordPvP](https://github.com/NukelordPvP/space_enhancement_mod_edits/releases/tag/Spore)
 
 * Somebody made this mode instead of me, my idea was fruits appear in civ and space stage too.
 * This is not affect to the gameplay, only decoration.
 
-# Original mod BY: cherrytree370
