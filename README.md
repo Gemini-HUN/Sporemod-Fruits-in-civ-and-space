@@ -9,6 +9,6 @@
 ### My mod idea, original mod modification:
  [NukelordPvP](https://github.com/NukelordPvP/space_enhancement_mod_edits/releases/tag/Spore)
 
-* Somebody made this mode instead of me, my idea was fruits appear in civ and space stage too.
-* This is not affect to the gameplay, only decoration.
+* Someone created this mod before I could. My original idea was to make fruits appear in the Civilization and Space stages as seen in cherrytree370's mod, but without adding new space weapons.
+* This mod does not affect gameplay; it is purely decorative.
 
