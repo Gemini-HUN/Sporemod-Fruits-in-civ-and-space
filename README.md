@@ -1,5 +1,5 @@
 # Sporemod-Fruits-in-civ-and-space
-### Total Downloads: ![Downloads](https://badgen.net/github/assets-dl/Gemini-HUN/Sporemod-Fruits-in-civ-and-space?style=flat-square&color=d81b60&icon=github)
+## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Sporemod-Fruits-in-civ-and-space?style=flat-square&color=d81b60&logo=github)
 
 <img width="1920" height="1080" alt="SporeApp 2025-11-18 21-04-34_546" src="https://github.com/user-attachments/assets/20f9ccb4-dfdb-487f-b788-1a32ba12a9af" />
 
