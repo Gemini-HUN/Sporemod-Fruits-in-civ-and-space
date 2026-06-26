@@ -1,6 +1,9 @@
 # Sporemod-Fruits-in-civ-and-space
 ## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Sporemod-Fruits-in-civ-and-space?style=flat-square&color=d81b60&logo=github)
 
+## How to install mods?
+I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
+
 <img width="1920" height="1080" alt="SporeApp 2025-11-18 21-04-34_546" src="https://github.com/user-attachments/assets/20f9ccb4-dfdb-487f-b788-1a32ba12a9af" />
 
 ### Original mod:
