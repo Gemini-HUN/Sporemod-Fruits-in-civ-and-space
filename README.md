@@ -4,7 +4,7 @@
 ## How to install mods?
 I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
 
-<img width="1920" height="1080" alt="SporeApp 2025-11-18 21-04-34_546" src="https://github.com/user-attachments/assets/20f9ccb4-dfdb-487f-b788-1a32ba12a9af" />
+<img width="727" height="625" alt="1000000927" src="https://github.com/user-attachments/assets/f128d117-3ecd-4503-ae75-69787cd3c4be" />
 
 ## Compatible with
 * [Spore_T3_Earth](https://github.com/Gemini-HUN/Spore_T3_Earth)
@@ -25,4 +25,5 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 
 * Someone created this mod before I could. My original idea was to make fruits appear in the Civilization and Space stages as seen in cherrytree370's mod, but without adding new space weapons.
 * This mod does not affect gameplay; it is purely decorative.
+
 
