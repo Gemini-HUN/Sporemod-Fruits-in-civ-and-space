@@ -15,6 +15,7 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 * [2008_feb_special_planets)](https://github.com/Gemini-HUN/2008_feb_special_planets)
 * [2008_feb_Art_planets](https://github.com/Gemini-HUN/2008_feb_Art_planets)
 * Other unique planet mods
+* Or just in your vanilla game
 
 ### Original mod:
 [cherrytree370](https://davoonline.com/phpBB3/viewtopic.php?t=10810)
