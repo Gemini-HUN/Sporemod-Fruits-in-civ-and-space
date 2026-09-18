@@ -27,3 +27,4 @@ Image made by **Moon** from Discord!
 
 * Someone created this mod before I could. My original idea was to make fruits appear in the Civilization and Space stages as seen in cherrytree370's mod, but without adding new space weapons.
 * This mod does not affect gameplay; it is purely decorative.
+* This mod useful if you want to see fruits in these stages
